@@ -15,6 +15,6 @@ entries:
     - airflow
     name: airflow
     urls:
-    - https://marclamberti.github.io/airflow-eks-helm-chart/airflow-1.0.0.tgz
+    - https://enniomorricone123.github.io/airflow-eks-helm-chart/airflow-1.0.0.tgz
     version: 1.0.0
 generated: "2020-09-10T14:16:33.303424305Z"
